@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/kahvec_irem" target="blank"><img src="https://img.shields.io/twitter/follow/kahvec_irem?logo=twitter&style=for-the-badge" alt="kahvec_irem" /></a> </p>
 
-- 🌱 I’m currently learning **Css,Javascript**
+- 🌱 I’m currently learning **Css/Html,Javascript, Python**
 
 - 💬 Ask me about **R, R Shiny, Linux, Web Design**
 
