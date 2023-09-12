@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Css/Html,Javascript, Python**
 
-- 💬 Ask me about **R, R Shiny, Linux, Web Design**
+- 💬 Ask me about **R, R Shiny, Linux, Graphic Design**
 
 - 📫 How to reach me **kahveciiirem@gmail.com**
 
